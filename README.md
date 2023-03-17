@@ -9,7 +9,7 @@ with feature documentation available to download [here](https://www.google.com/u
 
 ## Summary of Findings
 
-1. Science had the highest average score of 475.8, followed by Reading with 472, and Math with the lowest average of 479.6
+1. Science had the highest average score of 475.8, followed by Reading with 472, and Math with the lowest average of 469.6
 2. Africa and the Middle East had the lowest participation for the PISA study
 3. The students were almost equally split by gender, with 49.52% of the students being Male and the remaining 50.48% of the students female.
 4. The majority of paricipating countries were part of the OECD (60.85%)
