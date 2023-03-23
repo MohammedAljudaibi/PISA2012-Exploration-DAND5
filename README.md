@@ -31,7 +31,6 @@ then I showed a world map of OECD and non-OECD countries.
 
 I finally showed a world map of the students total combined scores in the pisa Science, Math and Reading tests.
 
-
-https://user-images.githubusercontent.com/121340570/227341992-695b236c-cb31-4d65-99c0-08d311f54ebd.mp4
+https://user-images.githubusercontent.com/121340570/227344312-5fcc5bd3-ea8a-4c1d-80ff-355b20f52c0b.mp4
 
 
